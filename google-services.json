@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92874919552",
+    "project_id": "sylhety-63e6a",
+    "storage_bucket": "sylhety-63e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92874919552:android:6b1f6edd0bc035d5d0a065",
+        "android_client_info": {
+          "package_name": "hunahyan.com.sylhety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIN7FWvNLfO6fACTY8xsvesKxP0Cbpqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
